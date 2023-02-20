@@ -12,8 +12,7 @@ module.exports = {
         dark: "#090909",
       },
       backgroundImage: {
-        "hero-img": "url('/imgs/hero.jpg')",
-        "footer-texture": "url('/img/footer-texture.png')",
+        "hero-img": "url('/imgs/gym.png')",
       },
     },
   },
